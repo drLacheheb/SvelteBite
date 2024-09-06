@@ -7,7 +7,7 @@ Welcome to **SvelteBite**, the ultimate combo of SvelteKit, Flowbite, and Tailwi
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/drlach/sveltebite.git
+   git clone https://github.com/drLacheheb/sveltebite.git
    cd sveltebite
    ```
 
